@@ -1,5 +1,9 @@
-### Hi there 👋
+### Olá! Seja bem vindo.
 
+- Graduando em engenharia de software na Fiap;
+- Usando o GitHub com frequência para estudos;
+- Atualmente estudando Python;
+- Gostando muito do processo de aprendizagem em programação;
 <!--
 **pedrohmartinsa/pedrohmartinsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
