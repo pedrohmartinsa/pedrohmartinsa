@@ -4,6 +4,8 @@
 - Usando o GitHub com frequência para estudos;
 - Atualmente estudando Python;
 - Gostando muito do processo de aprendizagem em programação;
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohmartinsa&theme=dracula&hide_border=true">
 <!--
 **pedrohmartinsa/pedrohmartinsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
