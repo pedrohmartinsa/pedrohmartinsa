@@ -1,4 +1,4 @@
-### Olá! Seja bem vindo.
+### Olá! Meu nome é Pedro, seja bem vindo(a) ao meu Github
 
 - Graduando em engenharia de software na Fiap;
 - Usando o GitHub com frequência para estudos;
