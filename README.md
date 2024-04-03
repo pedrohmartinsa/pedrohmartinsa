@@ -5,6 +5,11 @@
 - Atualmente estudando Python;
 - Gostando muito do processo de aprendizagem em programação;
 
+<p>
+  <a href="https://instagram.com/pedroo_hmas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:pedroshenriquepsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/pedrohmas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
  
 
 <img src="https://github-readme-stats.vercel.app/api?username=pedrohmartinsa&theme=dracula&show_icons=true&hide_border=true&count_private=true">
